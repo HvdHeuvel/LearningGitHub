@@ -3,3 +3,5 @@ The test is used for learning GitHub (Desktop and remote).
 
 Make a change from LearningGitHub branch.
 
+And another change in the test file which belongs to the LearningGitHub branch.
+
